@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fem-calculator-app-theme-toggle-react/static/css/main.00a124f9.css",
+    "main.js": "/fem-calculator-app-theme-toggle-react/static/js/main.a0db12d7.js",
+    "index.html": "/fem-calculator-app-theme-toggle-react/index.html",
+    "main.00a124f9.css.map": "/fem-calculator-app-theme-toggle-react/static/css/main.00a124f9.css.map",
+    "main.a0db12d7.js.map": "/fem-calculator-app-theme-toggle-react/static/js/main.a0db12d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a124f9.css",
+    "static/js/main.a0db12d7.js"
+  ]
+}
